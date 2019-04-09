@@ -1,0 +1,42 @@
+.make-center{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .make-left{
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+   }
+   .make-right{
+    display: flex;
+    justify-content: flex-end;
+    align-items:center 
+  }
+  .beutify{
+    font-family: cursive;
+    color: ghostwhite;
+    font-size: 30px;
+    height: 80px;
+   }
+  .fontify{
+    font-family: cursive;
+    font-size: 35px;
+    font-weight: bold;
+   }
+   .margin-b
+   {
+   	margin-bottom: 10px
+   }
+   .footer {
+   position: fixed;
+   left: 0;
+   bottom: 0;
+   width: 100%;
+   background-color: red;
+   color: white;
+   text-align: center;
+}
+
+
+  
